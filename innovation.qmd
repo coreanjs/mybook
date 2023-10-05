@@ -1,5 +1,7 @@
 # Innovation
 
+테스트
+
 The energy research and development (R&D) field has seen a great deal of recent activity in the development of new and renewable energy technology, as a critical source of future energy supplies[@stern2006].
 
 Given the ever-increasing pace and complexity of technological innovation in the energy sector, monitoring technological changes has become of strategic importance. One of the most common techniques for technology monitoring is patent analysis, which enables the identification of technological trends over time. Patent analysis is one of the most prevalent methods used to analyze technological innovation. Patents are a good proxy measure for innovation activities---they have been used to assess the current state of firms' innovation efforts and to shape their future direction and support their R&D decision-making.
