@@ -1,0 +1,188 @@
+# Paper review assignments {.unnumbered}
+
+## Determinants of innovation in energy intensive industry and implications for energy policy
+
+-   Introduction
+
+    -   (The author's name(s) and the title of the article) Determinants of innovation in energy intensive industry and implications for energy policy, 2015년 Energy Policy에 발간된 논문[@song2015]
+
+    -   (The author's main point) This study aims to emphasize the importance of innovation and analyze the impact of Research and Development (R&D) on both **product innovation** and **process innovation** in energy intensive industry(EII) and compare it to less EII.
+
+    -   (A thesis statement that previews your analysis) It was Schumpeter who brought determinants of innovation into the context of mainstream economics. Schumpeter[@schumpeter1934] argued that large firms with monopolistic power in a concentrated market are more likely to promote technological innovation. This is the famous **Schumpeterian hypothesis**, which presents **firm size** and **market structure** as **the main determinants of innovation**.
+
+-   Summary
+
+    -   (The main points of the article) Use data from the 2008 Korea Innovation Survey to estimate the impact of key economic variables (e.g. firm size and market structure) that are proposed in the Schumpeterian hypothesis, along with other economic variables on innovation in EII.
+
+    -   Based on the empirical results, we uncover the implications that **energy policies have on facilitating innovation in EII**.
+
+    -   R&D will surely facilitate innovation in EII.
+
+-   Critique
+
+    -   (Limitations) Followed by the OECD Oslo manual, the KIS2008 measures technological innovation using a dummy variable to check whether a firm performs product or process innovations. The outputs of innovations are very **heterogeneous** in terms of quality.
+
+    -   **The insignificant effect of market concentration** on product and process innovations in EII may be caused by the relatively short sample period.
+
+    -   To extend the results of the study, further studies can examine this through **different analytical methods**, such as a panel regression or a Logit model.
+
+-   Conclusion
+
+    -   **R&D personnel ratio** has a positive and statistically significant effect on both product and process innovations. While only **R&D intensity** appears to have a significant effect on process innovation in EII. This means that for improving **process innovation,** increasing both manpower and monetary expenditures in R&D programs is necessary.
+
+    -   **product innovation** can be enhanced by adding R&D manpower with relatively less financial investment. It is clear that process innovation is more costly and time consuming than product innovation.
+
+    -   As for the relationship between **firm size** and innovation, interestingly, firm size has no impact on product innovation, but a positive effect on process innovation.
+
+-   The Probit model is described as the relationship between the explanatory variables and the dependent variable that has a value of 0 or 1
+
+**Determinants of innovation in energy intensive industry and implications for energy policy(위 homework 한글로 작성한 것임)**
+
+-   들어가며
+
+본 논문 분석은 슘페터 가설과 관련된 논문을 요약하는 2023년 가을학기 이노베이션 경영 1주차 과제이며, 분석 대상 논문은 에너지집약산업에서 연구개발의 영향과 혁신의 중요성을 분석한 논문으로 2015년 Energy Policy에 개제되었고 인용수는 '23년 9월 현재 89회를 기록하고 있다.
+
+-   주요 내용요약
+    -   본 연구는 연구개발(Research & Development, R&D)이 에너지집약산업(Energy Intensive Industry, EII)에서의 제품 혁신(process innovation)과 공정 혁신(process innovation)에 미치는 영향을 분석하고, 혁신의 중요성을 강조한다. 그리고 이 영향을 비 에너지집약산업과 비교한다.
+
+    -   혁신의 결정요인을 주류 경제학으로 끌고 온 사람은 슘페터이다. 슘페터는 집중된 시장에서 독점력을 가진 대기업이 기술 혁신을 촉진할 가능성성이 높다고 주장하였다. 이는 유명한 슘페터 가설로, 기업의 규모와 시장 구조를 혁신의 주요 결정요인으로 제시하였다.
+
+    -   2008년 한국의 기술혁신조사의 데이터를 사용하여 에너지집악산업의 혁신에 대한 경제 변수와 함께 슘페터 가설에서 제안된 주요 경제 변수(예: 기업 규모 및 시장 구조)가 혁신에 미치는 영향을 추정한다.
+
+    -   실증적 결과를 바탕으로 우리는 에너지 정책이 에너지집약산업의 혁신 촉진에 미치는 영향을 밝히며, R&D는 에너지집약산업의 혁신을 촉진할 것이라는 점을 밝힌다.
+-   결과
+    -   에너지집약산업과 비에너지집약산업에 회귀분석을 수행하였고, 분석에 사용된 변수는 firm size, squared firm size, market concentration, export ratio, capital ratio, advertising intensity, R&D intensity, R&D personnel ratio로 구분된다. 분석 결과는 다음과 같이 4가지로 구분하여 제시한다.
+
+    -   R&D 집약도와 제품 혁신, R&D 인력과 제품 혁신, R&D 집약도와 공정 혁신, R&D 인력과 공정 혁신
+
+    -   R&D 인력 비율은 제품 및 공정 혁신 모두에 통계적으로 유의미한 영향을 미치나, R&D 집약도는 에너지집약산업의 공정 혁신에만 중요한 영향을 미치는 것으로 보인다. 이는 공정 혁신을 개선하기 위해서는 R&D 프로그램에서 인력과 금전적 지출을 모두 늘려야 함을 의미한다. 반면, 제품 혁신은 상대적으로 적은 재정 투자로 R&D 인력을 추가함으로써 강화할 수 있다. 공정 혁신이 제품 혁신보다 비용과 시간이 더 많이 소요되는 것이다.
+
+    -   기업 규모와 혁신의 관계를 살펴보면, 흥미롭게도 기업 규모는 제품 혁신에는 영향을 미치지 않지만 공정 혁신에는 긍정적인 영향을 미친다. 큰 규모의 재정적 투자가 필요한 R&D는 중소기업들에게는 쉽지 않을 것이기 때문에, 공정 혁신을 달성하기는 보다는 제품 혁신을 달성해야 할 것이다.
+-   결론
+    -   OECD 오슬로 매뉴얼에 따라 KIS2008에서는 기업이 제품 혁신을 수행하는지, 공정 혁신을 수행하는지 확인하기 위해 더미변수를 사용하여 기술 혁신을 측정하였다. 이렇게 측정된 혁신의 결과는 신뢰도 측면에서 매우 이질적일 수 있다. 또한, 에너지집약산업의 혁신에 대한 시장 집중도의 미미한 영향은 상대적으로 짧은 표본 기간으로 인해 발생한 것일 수도 있다.
+
+    -   Hermansen (2011)에 따르면 소기업과 대기업은 중기업보다 혁신을 추진하기 쉬우며, 기업의 규모에 따라 혁신활동에 미치는 영향이 다를 것이다. 향후 연구에서는 기업의 규모와 산업에 따른 혁신의 결정요인들을 분석해볼 수 있을 것이다. 또한, 패널 회귀 또는 로짓 모델과 같은 다양한 분석 방법을 통해 이를 조사를 통해 연구 결과를 확장할 수 있을 것이다.
+
+### Sources of innovation and innovation type: firm-level evidence from the United States
+
+-   Summary
+
+    -   this study provides one of the first tests to identify how important sources of new information (suppliers, customers, other business people in the industry, workers, and university) are associated with types of innovations (product, process, and marketing).
+
+    -   This article uses the first approach and treats innovation as the dependent variable while analyzing how different sources associated with overall firm innovation activity and four types of innovations.
+
+    -   The results show that innovation ideas emanating from customers, workers, and universities are positively associated with all types of innovations, suggesting that these sources are critical for developing different types of innovation.
+
+-   차이점
+
+    -   our dependent variable is type of innovation and overall innovations, while most other studies focus on the amount of R&D expenditures, patent applications, location, and geographic proximity of knowledge sources
+
+    -   data for major studies focusing on sources of innovation are mostly from the 1990s and are not current.
+
+    -   these many studies cover only the largest R&D-performing firms, so they generally exclude smaller firms and non R&D firms, which is also true for the US Business R&D and the Innovation Survey of 2008. Our study, on the other hand, is not restricted to high-performing firms.
+
+    -   most of the studies on innovation focus on Europe, but the focus of this study is on the United States.
+
+-   Data and Methods
+
+    -   Data come from the National Survey of Business Competitiveness (NSBC), which was conducted by the Social & Economic Sciences Research Center (SESRC) at Washington State University for the United States Department of Agriculture's Economic Research Service.
+
+    -   Four different dependent variables are used in this article. (i) product(including goods and service innovations), (ii) process, (iii) marketing innovations, (iv) firm innovation activity.
+
+-   Results
+
+    -   the results of the unstandardized SUR models. Ideas emanating from **customers**, **workers**, and **universities** are positively associated with all types of innovations.
+
+    -   ideas emanating from **customers** are positively associated with namely product (B = 0.06, P \< 0.001), process (B = 0.05, P \< 0.001), and marketing innovations (B = 0.05, P \< 0.001), holding other variables constant.
+
+    -   Ideas emanating from **suppliers** are moderately and positively associated with only product innovation (B = 0.02, P \< 0.05). suppliers do not have any statistical relationship to other types of innovations.
+
+    -   Ideas from **other business people** in the firm's industry are positively associated with process and marketing innovations (P \< 0.05), holding other variables constant, although the magnitude of the effect is small.
+
+    -   Ideas emanating from workers are positively associated with all types of innovations (product, process, and marketing), holding other variables constant (B ¼ 0.04, 0.05, and 0.05, respectively; P \< 0.001).
+
+    -   The universities as sources of innovation are also positively and statistically associated with both types of innovations (P \< 0.001). In fact, the university as a source of innovation has higher coefficients (B ¼ 0.07, 0.08, and 0.1, respectively), suggesting that universities are important sources of innovation.
+
+    -   Regarding the control variables, on average, the younger firms, firms with more employees, and firms located in urban areas exhibit a greater degree of innovation activity for all types of innovations---product, process, and marketing innovations.
+
+-   Conclusion
+
+    -   Analyzing how five important sources of innovation (i.e. suppliers, customers, others in industry, workers, and university) are associated with types of innovation (i.e. product, process, and marketing), we have found that universities, workers, and customers are important sources of innovation positively associated with all of innovation types.
+
+    -   Using United States National Survey of Business Competitiveness (NSBC) conducted in 2014, this study has contributed to the innovation literature by analyzing how the following knowledge sources are associated with product, process, and marketing innovation as well as overall innovation activity by the following important innovation sources: (i) suppliers, (ii) customers, (iii) other people in industry, (iv) workers, and (v) university.
+
+    -   Universities, customers, and workers are crucial knowledge sources, positively associated with product, process, marketing, and overall innovation activity. Suppliers and others in industry have either little or no statistical effect for innovation activities.
+
+    -   Like most of survey research, this article is based on a cross-sectional data. Therefore, lack of panel data, or quasi-experimental design does not permit scholars to make causal claims about findings. In other words, the study is correlational, not causal. In addition, due to data limitations, we could not measure which particular innovations are more important and effective than others. For example, data does not provide information about the quality of innovations such as which innovations lead huge savings, sales, or patents.
+
+    -   We recommend future studies to focus on the link of sources and types of innovation in other context with qualitative research.
+
+### Patterns of technological innovation and evolution in the energy sector: A patent-based approach
+
+-   요약
+
+    -   Given the ever-increasing pace and complexity of technological innovation in the energy sector, monitoring technological changes has become of strategic importance.
+
+    -   Patent analysis is one of the most prevalent methods used to analyze technological innovation. This study aims to explore patterns of innovation and of evolution in energy technologies, particularly focusing on similarities and differences across technologies.
+
+    -   we first defined the relevant energy technologies and extracted the associated patent data from the United States Patents and Trademark Office (USPTO) and then adopted six patent indices and developed six patent maps to analyze their innovation characteristics
+
+-   인트로
+
+    -   Patents are a good proxy measure for innovation activities---they have been used to assess the current state of firms' innovation efforts and to shape their future direction and support their R&D decision-making.
+
+    -   The importance of patent data is being increasingly recognized, and is growing daily across all industry sectors. Given the globally competitive and cooperative landscape of energy technology development, patents are considered as the core means of protecting innovation in the energy sector, as in other sectors.
+
+    -   This paper, therefore, aims to investigate the energy sector's patterns of technological innovation and evolution, and to categorize the essential innovation aspects of energy technologies in more detail according to their similarities and differences..
+
+-   Patterns of innovation
+
+    -   Previous research has broadly classified types of innovation into 'innovation subject', 'innovation degree', and 'innovation activity'.
+
+    -   As well as these classifications using single criteria, there have been various studies that try to classify technological innovation according to two criteria.
+
+    -   As well as these classifications using single criteria, there have been various studies that try to classify technological innovation according to two criteria.
+
+-   Methodology
+
+    -   we collected energy-technology related patents filed at the USPTO during the period 1991--2010.
+
+    -   we designed a composite index to analyze innovations' characteristics, composed of six indices and classified according to input, process and output points of view.
+
+    -   the six individual indices we developed measured: (1) developer intensity (actor-input); (2) developer openness (actor-process); (3) market potential (actor-output); (4) technology intensity (technology-input); (5) technology openness (technology-process); and (6) technology potential (technology-output).
+
+    -   Using these indices, we analyzed the innovation characteristics of 21 new energy technologies to identify patterns of technology innovation and evolution.
+
+-   Patterns of innovation in the energy sector
+
+    -   Static portfolio analyis result
+
+-   Discussions and policy implications
+
+    -   different energy technologies have different patterns of innovation. Six types of innovation patterns were identified---but those types were not determined by the sources of energies.
+
+    -   the innovation patterns of energy technologies change as they evolve.
+
+    -   energy technologies have a tendency to decrease in developer openness, against the trend towards open innovation.
+
+    -   both the application and technology potential of energy technologies tended to increase, indicating that their importance in the marketplace has increased and their development has accelerated.
+
+-   Conclusions
+
+    -   First, in methodological terms, it is one of the first attempts to use patent analysis to categorize the general characteristics of energy technologies.
+
+    -   on a practical level, our results provide an important overview of the current situation, which shows that, since innovation and evolution patterns differ according to energy technology.
+
+    -   each new and renewable technology also have representative characteristics, but the general trends show that both developer intensity and technology intensity are generally low.
+
+-   Limitations
+
+    -   More advanced patent analysis methods such as patent citation and text-mining could also be applied.
+
+    -   we adopted a technology classification system from a previous study and identified 20 technologies from it.
+
+    -   limited to the analysis of global patterns of innovation, but the analysis of national or regional innovation patterns could reveal implications that might be more meaningful at those levels.
+
+    -   it should be noted that knowledge about patterns of innovation and evolution based on patent analysis may be limited, as patent documents provide only little information about markets.
+
+# 

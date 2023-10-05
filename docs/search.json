@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mybook",
+    "title": "Jiseok’s journey",
     "section": "",
-    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the website for the 2nd edition of “R for Data Science”. This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it and visualize.\nIn this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualizing, and exploring data.\nThis website is and will always be free, licensed under the CC BY-NC-ND 3.0 License. If you’d like a physical copy of the book, you can order it on Amazon. If you appreciate reading the book for free and would like to give back, please make a donation to Kākāpō Recovery: the kākāpō (which appears on the cover of R4DS) is a critically endangered parrot native to New Zealand; there are only 248 left.\nIf you speak another language, you might be interested in the freely available translations of the 1st edition:\n\nSpanish\nItalian\nTurkish\n\nPlease note that R4DS uses a Contributor Code of Conduct. By contributing to this book, you agree to abide by its terms.\n\n\nR4DS is hosted by https://www.netlify.com as part of their support of open source software and communities."
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "이 사이트는 내가 배운 것들을 정리하고자 하는 목적으로 만들었다."
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "\n3  Summary\n",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
   },
@@ -26,5 +26,110 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "Abstract",
+    "section": "",
+    "text": "블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라\n블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "acknowledgements.html",
+    "href": "acknowledgements.html",
+    "title": "\n3  Acknowledgements\n",
+    "section": "",
+    "text": "블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라\n블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html#what-you-will-learn",
+    "href": "intro.html#what-you-will-learn",
+    "title": "1  Introduction",
+    "section": "1.1 What you will learn",
+    "text": "1.1 What you will learn\nData science is a vast field, and there’s no way you can master it all by reading a single book. This book aims to give you a solid foundation in the most important tools and enough knowledge to find the resources to learn more when necessary. Our model of the steps of a typical data science project looks something like ?fig-ds-diagram."
+  },
+  {
+    "objectID": "innovation_lecture.html",
+    "href": "innovation_lecture.html",
+    "title": "2  Week 1",
+    "section": "",
+    "text": "매주 수업과 관련된 주요 개념 및 논문 1편 요약 제출 (분량 무관) - KLMS에 숙제 제출 및 강의자료 다운!/\n\n금요일 자정까지 제출\n모든 분들은 한 학기 2번씩 발표하게 됨 (5-7분)\n요약, 가설, 연구방법, 결과, 결론, 개인 의견\n\nMidterm 10/21 휴강\n실제 시험은 11/18 or 11/25 (시험의 비중은 60%) - handwriting\n\n서술 : 핵심 이론에 대한 설명 15문제\n에세이 : 주어진 기사에 숨겨있는 혁신원리, 이론을 찾아내고, 관련 현상 설명\n\nFinal report는 지금 신경 쓰지 마세요.\n\n특허 자료를 통해 수업시간에 배운 이론 실증\n제출 시 표절검사 결과 함께 제출 e.g., copykiller . 표절률 10~15%까지 허용\n11월 정도에 기말 주제 공지 예정"
+  },
+  {
+    "objectID": "innovation_lecture.html#classics-of-innovation-studies",
+    "href": "innovation_lecture.html#classics-of-innovation-studies",
+    "title": "2  Week 1",
+    "section": "3.1 Classics of Innovation Studies",
+    "text": "3.1 Classics of Innovation Studies\n\n슘페터 가설은 정답이 없다. 그래서 여전히 논문주제로 나온다. 왜 이런 물음들이 던져진걸까..?\n아담 스미스 전의 경제는 학문이 아니고, 신학과 철학, 정치 수준에 불과하였음. 수요 = 공급, 공식화 될 수 있는 걸 얘기한 사람이 아담스미스. 아담스미스가 경제학을만든 것임. 하나의 시장, 커뮤니티를 살펴보니 그 안에서 개인은 이기적인 마음으로 자유롭게 거래를 하는 것을 살펴봄. 모아놓고 보니 그 안에서 균형을 잡고, 전체의 후생이 증가한다는 걸 발견. 기본은 완전경쟁시장.\n칼 막스는 아담 스미스의 주장에 돌을 던짐.\n대공황(1929, Great Depression)이 오는 원인? 수요와 공급의 사이클이 느리거나 멈췄을 때. 어디를 자극해서? 어디를 관심? 케인즈는 수요쪽. 슘페터는 공급(기업).\n케인즈는 유효수요론 주장하면서 정부의 개입을 이야기함. - 소득주도. 왜냐하면 시장은 한번도 완전한 적이 없었기 때문. 케인즈는 기업 쪽에 관심이 없음. 수요쪽에만 관심을 가짐.\n슘페터는 기업에서 혁신을 통해 수요 공급 사이클을 돌릴 수 있다고 말함. - 혁신성장론.\n케인즈, 슘페터 모두 시장의 불완전성에는 동의"
+  },
+  {
+    "objectID": "innovation_lecture.html#schumpeterian-hypothesis",
+    "href": "innovation_lecture.html#schumpeterian-hypothesis",
+    "title": "2  Week 1",
+    "section": "3.2 Schumpeterian hypothesis",
+    "text": "3.2 Schumpeterian hypothesis\n\nPart II Can Capitalism Survive? Chapter 8 Monopolistic Practices\n\n\n\n\n\n\n\n중간고사 시험 대비\n\n\n\n\nThe Schumpeterian tradeoff revisited(Nelson and Winter 1982), 시험에 나옴!!! Table의 결과 정리해두면 좋을 것\n\n기본적으로 슘페터의 가설 및 이론을 지지함.\n많은 경쟁자들이 있는 시장보다는 적은 경쟁자들이 있는 시장에서 혁신적인 활동이 일어나기 쉽다는 것을 보여줌.\n투자가 제한된 상황에서는 경쟁 시장이 혁신을 촉진하는 것 보다는 독점적 시장이 혁신을 촉진하는 것이 더 효과적임.\nTable 1~6 주요 내용 정리 필요\n\n\n\n\n\n제품혁신, 공정혁신. cost reduction인지, 매출 상승인지에 따라 제품 or 공정 혁신이 달라질 수 있다.\nfirst-mover와 follower의 R&D 비용 차이는 어마어마함."
+  },
+  {
+    "objectID": "innovation_lecture.html#paradigm",
+    "href": "innovation_lecture.html#paradigm",
+    "title": "2  Week 1",
+    "section": "3.3 Paradigm",
+    "text": "3.3 Paradigm\n\nThomas Kuhn, 패러다임의 변화. 믿음, 세계관을 포함하는 넓은 의미의 형이상학적 변화 정상과학(교과서의 변경)\nThough the world does not change with a change of paradigm, the scientist afterwards works in a different world. “The Structure of Scientific Revolutions, p. 121.”\n\n\n\n\n\nflowchart LR \n  A(Anomalies) --> B(Crisis) \n  B(Crisis) --> C(Revolution)\n  C(Revolution) --> D(Normal Science)\n  D(Normal Science) --> A(Anomalies)"
+  },
+  {
+    "objectID": "innovation_lecture.html#general-purpose-technology",
+    "href": "innovation_lecture.html#general-purpose-technology",
+    "title": "2  Week 1",
+    "section": "3.4 General Purpose Technology",
+    "text": "3.4 General Purpose Technology\n\n범용기술. 새로운 세대로의 기술적, 산업적 변화를 불러오는 혁신기술들의 최상단에 위치하는 기술로, 한 세대 산업혁명 안에서 많은 기술들의 뿌리로 인식될 수 있는 기술\n산업혁명은 일반적으로 범용기술의 출현과 함께 시작되어 당시 산업구조의 혁신적 변화를 일으킴\nEnabling Technology라고도 부르며, 산업간 확산성(Pervasiveness), 개선 가능성(Improvement), 혁신 촉진성(Innovation Spawning)"
+  },
+  {
+    "objectID": "innovation_lecture.html#assignment",
+    "href": "innovation_lecture.html#assignment",
+    "title": "2  Week 1",
+    "section": "3.5 Assignment",
+    "text": "3.5 Assignment\n\n혁신의 원천 관련 논문( 공급, 수요, 사용자, 기술 디지털 등) 1편 요약\n혁신의 trigger, driving force? 기술인가 수요인가. source of innovation\nSource of Innovation [Where Don innovations Come From?] 에 관련하여 과제를 제출하시면 됩니다."
+  },
+  {
+    "objectID": "innovation_lecture.html#source-of-innovation",
+    "href": "innovation_lecture.html#source-of-innovation",
+    "title": "2  Week 1",
+    "section": "4.1 Source of Innovation",
+    "text": "4.1 Source of Innovation\n\n4.1.1 Technology Push - 시험 준비!!!\n\nTechnology Push Model\nBasic Science -> Applied Science and Engineering -> Manufacturing -> Marketing\n\n\n\n\n4.1.2 Demand Pull - 시험 준비!!!\n\n\n4.1.3 Seven sources of innovation\n\nUnexpected, Incongruity, Market Structure, Necessity, Demographics, Changing Perception, New Knowledge\nDescriptive, 통계 등을 활용해 증명을 해야 한다.\nPrescriptive 처방적. 피터 드러커의 연구는 증명할 거리가 아니다. 처방적인 것은 측정하기가 너무 어렵다. 기껏해야 설문 조사. 처방적 얘기를 가지고 연구주제로 가기는 쉽지 않다. 마케팅이나 MBA에서 가능\nGibbons Mode 1 to Mode 2 (중요!!!!!!!!!!!)\n\n\n\n4.1.4 과학-기술 연계성 분석\n\n특허의 NPL(Non-Patent Literature) 특허에 있는 참고문헌 중 비특허문헌\n\n\n\n4.1.5 Assignment\n\n\n\n\n\n\nImportant\n\n\n\nTypes, Architecture and Taxonomy 관련 논문\n(아티텍쳐 혁신, 모듈러 혁신, Pavitt 분류, 혁신의 분류)"
+  },
+  {
+    "objectID": "innovation_lecture.html#types-and-patterns-of-innovation",
+    "href": "innovation_lecture.html#types-and-patterns-of-innovation",
+    "title": "2  Week 1",
+    "section": "5.1 Types and Patterns of Innovation",
+    "text": "5.1 Types and Patterns of Innovation\n\nProduct innovation\nProcess innovation"
+  },
+  {
+    "objectID": "innovation_lecture.html#assignment-2",
+    "href": "innovation_lecture.html#assignment-2",
+    "title": "2  Week 1",
+    "section": "5.2 Assignment",
+    "text": "5.2 Assignment\n\n\n\n\n\n\n이번주 과제는 두 개임\n\n\n\nProcess innovation과 Process innovation을 구분할 수 있는 방법? 정답은 없다. 아이디어 제출.\nProduct/Process innovation 다룬 논문 요약해서 제출\n\n\n\n\n\n\nNelson, Richard R., and Sidney G. Winter. 1982. “The Schumpeterian Tradeoff Revisited.” The American Economic Review 72 (1): 114–32. https://www.jstor.org/stable/1808579."
+  },
+  {
+    "objectID": "innovation_paper.html",
+    "href": "innovation_paper.html",
+    "title": "Paper review assignments",
+    "section": "",
+    "text": "Schumpeter, Joseph A. 1934. The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle. Harvard Economic Studies. Cambridge, MA: Harvard University Press.\n\n\nSong, ChiUng, and Wankeun Oh. 2015. “Determinants of Innovation in Energy Intensive Industry and Implications for Energy Policy.” Energy Policy 81 (June): 122–30. https://doi.org/10.1016/j.enpol.2015.02.022."
+  },
+  {
+    "objectID": "innovation.html",
+    "href": "innovation.html",
+    "title": "Innovation",
+    "section": "",
+    "text": "Lee, Kyungpyo, and Sungjoo Lee. 2013. “Patterns of Technological Innovation and Evolution in the Energy Sector: A Patent-Based Approach.” Energy Policy 59 (August): 415–32. https://doi.org/10.1016/j.enpol.2013.03.054."
+  },
+  {
+    "objectID": "innovation_lecture.html#why-do-firms-differ",
+    "href": "innovation_lecture.html#why-do-firms-differ",
+    "title": "2  Week 1",
+    "section": "2.2 Why Do Firms Differ",
+    "text": "2.2 Why Do Firms Differ\n\n혁신 역량의 차이\n\n디지털 경제는 기존 경제와 완전히 다르다. 디지털 기술의 속성을 모르면 디지털 경제을 알 수 없다. 디지털은 한계체증을 한다(marginal utility, 한계체감이 제로로간다). -> 그래서 플랫폼 기업들이 생긴다. 네이버가 고객 한명을 더 받는데 비용이 얼마나 들까? 거의 0 일것이다.\n테슬라가 노리는 것? 전기차 -> OS게임. 안드로이드/IOS 처럼… 네비게이션을 사면 자동차를 주는 세상?\n삼천리자전거. 여태까지는 B2C에 최적화되었음. 하지만 디지털 경제의 공유사업을 통해 공유자전거가 생기고 나서 B2B가 되었음. Customer가 아닌 플랫폼 기업Business에 팔아야 하는 것임.\n디지털 위에서는 패러다임이 바뀐다. 그래서 기술경영이 중요. 기술(제조)과 경영.\n\n혁신도 하나의 이론. Innovation Theories.\n\n세계 탑 저널은 혁신이론을 기반으로 좋은 페이퍼가 나오고 있음.\n사회과학은 누적 지식을 바탕으로 원전(original text)을 깔 수있음. 아담스미스의 국부론은 지금 시대에 맞지 않아! 라는 얘기 가능.\n혁신의 아버지 조지프 슘페터. 슘페터로 부터 시작. 미국 대공황. 그 시대는 사회주의 - 자본주의가 격동할 때며, 누가 정답인지 모를 때. 소련의 사회주의, 미국의 자본주의 둘 다 잘 살았고 두 체제의 우월성이 확연하지 않았음. 미국의 fordism을 다른 국가들이 보고 자본주의 체제를 따라가게 됨.\n케인즈 - 수요, 슘페터 - 공급. 케인즈 수요정책, 통화정책. 슘페터는 기업의 혁신. 케인즈 소득주도, 슘페터 혁신 성장론.\n혁신성장은 구조적으로 기업의 체질을 바꿔야 하기 때문에 효과를 보기에 오래 걸린다. 정권 초기에는 혁신 얘기를 하고, 정권 말기에는 숫자로 나타나야 하니까 수요/통화정책을 다룬다. 이념 얘기는 아니다.\n국가의 통화량을 얘기할 때 MV=PY. 통화량 법칙. 통화량을 높이면 GDP가 성장하는 것처럼 보인다. 국가적으로 볼 때 fake 쓰기 좋다.\n\nM: 통화량, V: 화폐유통속도(거의 상수), P:가격(물가상승률, 이자율), Y:생산량(GDP)\n\n시장은 한번도 완전한 적이 없다. 개입에 관해 결정하는 것이 정책. 정책은 어떻게 균형상태를 이끌어 갈 것인가. 시장이 실패하기 쉬운 곳에 정책이 많이 들어간다. 20년 전만 해도 자유주의 팽배하였으나, 지금은 변화함.\nHistory of Innovation Studies 강의 슬라이드\n\n\nScience & Technology\nIn Social Science (Innovation study)\n\n혁신이론의 순서. 혁신연구는 과학에서 기술로 가고, 기술에서 사업화로 가야함. 과학을 통해 기술을 만들고, 기술을 통해 사업화를 이루어내야 함.\n과학의 주체는 어디? 대학. 과학의 측정? 논문으로. 과학을 기술로 바꾸는 역할? 기업 혹은 기업부설연구소. 기술의 측정? 특허. 출연연구소의 역할은 과학을-> 기술로.\nClarivate(Web of Science) KAIST 학생 사용 가능!! 제일 좋은 특허 사이트.\n\n다음주 숙제\n\n슘페터 가설이란?\n슘페터 가설과 관련된 논문 1편 요약 1p 이상"
   }
 ]

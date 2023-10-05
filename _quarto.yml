@@ -3,20 +3,36 @@ project:
   output-dir: docs
 
 book:
-  title: "mybook"
-  author: "Jane Doe"
-  date: "2023. 10. 5."
+  title: "Jiseok's journey"
+  author: "Jiseok Ahn"
+  date: last-modified
+  reader-mode: true
+  
+  page-footer:
+    left: |
+      배움의 아카이빙을 체계적으로 하고자 만들었음.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+      
+  site-url: https://coreanjs.github.io/mybook/
+  repo-url: https://github.com/coreanjs/mybook/
+  
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
-
+   
+    - part: innovation.qmd
+      chapters: 
+        - innovation_lecture.qmd 
+        - innovation_paper.qmd 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - r4ds.scss
+    code-link : true
   pdf:
     documentclass: scrreprt
 
