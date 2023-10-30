@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coreanjs.github.io/mybook/index.html</loc>
-    <lastmod>2023-10-05T07:42:45.601Z</lastmod>
+    <lastmod>2023-10-30T01:28:38.960Z</lastmod>
   </url>
   <url>
     <loc>https://coreanjs.github.io/mybook/acknowledgements.html</loc>
@@ -22,14 +22,22 @@
   </url>
   <url>
     <loc>https://coreanjs.github.io/mybook/innovation_lecture.html</loc>
-    <lastmod>2023-10-07T02:53:22.442Z</lastmod>
+    <lastmod>2023-10-30T05:59:00.324Z</lastmod>
   </url>
   <url>
     <loc>https://coreanjs.github.io/mybook/innovation_paper.html</loc>
-    <lastmod>2023-10-05T10:00:30.847Z</lastmod>
+    <lastmod>2023-10-30T05:58:48.878Z</lastmod>
   </url>
   <url>
     <loc>https://coreanjs.github.io/mybook/innovation.html</loc>
-    <lastmod>2023-10-05T10:10:08.027Z</lastmod>
+    <lastmod>2023-10-30T01:40:23.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coreanjs.github.io/mybook/research_proposal_1.html</loc>
+    <lastmod>2023-10-30T10:16:40.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coreanjs.github.io/mybook/research.html</loc>
+    <lastmod>2023-10-30T01:36:24.961Z</lastmod>
   </url>
 </urlset>

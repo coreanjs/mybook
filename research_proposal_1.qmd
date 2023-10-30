@@ -1,0 +1,37 @@
+# Research proposal 1
+
+2023.10.30
+
+## Introduction
+
+-   **Electricity infrastructure is prone to cost overrun issues** almost independently of technology or location, that hydroelectric dams and nuclear reactors have the greatest amount and frequency of cost overruns, even when normalized to overrun per installed MW, and that solar and wind projects seem to present the least construction risk[@sovacool2014].
+
+-   Projections of **nuclear plant** costs have repeatedly failed to predict the cost overruns observed. A study found the mechanisms that have contributed to the rise in nuclear construction costs over the past 5 decades to understand the divergence between expected and realized costs[@eash-gates2020].
+
+-   In South Korea, the Ministry of Trade, Industry and Energy (MOTIE) announced in July 2023 its plan to review new nuclear power plant construction projects, reasoning that \"the supply capacity needs to be expanded for stable electricity supply, as it is estimated that demand for electricity will increase dramatically with the rapid electrification of life and industries in general recently and with the increase in investments in cutting-edge industries.\" However, experts are pointing out that sufficient review and discussion should precede construction projects for large-scale nuclear power plants. [hankyorae](https://english.hani.co.kr/arti/english_edition/e_national/1099650.html)
+
+## Objective / questions of the project
+
+::: callout-important
+## research questions
+
+-   Do large-scale projects like nuclear power plants show dramatic cost reduction as a power law of cumulative production? [@wright1936]
+
+-   What are the impacts of introducing new large-scale / SMR(Small Modular Reactor) nuclear power plants in South Korea?
+
+-   How might responsiveness to investment influence the role of and balance between the nuclear power plants and other low-carbon technologies?
+:::
+
+## Proposed scenarios
+
+-   The expansions of low-carbon technologies except nuclear power plants are constrained. Constraints on the diffusion of low-carbon technologies can be represented as fixed annual rates of growth of net technology deployment[@iyer2015].
+
+-   
+
+## Methodology
+
+## Data required and source of information
+
+## Expected results and conclusions
+
+## References

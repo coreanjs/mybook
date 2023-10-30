@@ -121,7 +121,7 @@
   {
     "objectID": "innovation.html",
     "href": "innovation.html",
-    "title": "Innovation",
+    "title": "Research",
     "section": "",
     "text": "The energy research and development (R&D) field has seen a great deal of recent activity in the development of new and renewable energy technology, as a critical source of future energy supplies(Stern 2006).\nGiven the ever-increasing pace and complexity of technological innovation in the energy sector, monitoring technological changes has become of strategic importance. One of the most common techniques for technology monitoring is patent analysis, which enables the identification of technological trends over time. Patent analysis is one of the most prevalent methods used to analyze technological innovation. Patents are a good proxy measure for innovation activities—they have been used to assess the current state of firms’ innovation efforts and to shape their future direction and support their R&D decision-making.\nHowever, few previous studies have carried out patent analysis in the energy sector. This study aims to explore patterns of innovation and of evolution in energy technologies, particularly focusing on similarities and differences across technologies. For this purpose, we first defined the relevant energy technologies and extracted the associated patent data from the United States Patents and Trademark Office (USPTO) and then adopted six patent indices and developed six patent maps to analyze their innovation characteristics. We then clustered energy technologies with similar characteristics, so defining innovation categories, and analyzed the changes in these characteristics over time to define their evolution categories. As one of the few attempts to investigate the overall trends in the energy sector’s innovation and evolution, this study is expected to help develop an in-depth understanding of the energy industry, which will be useful in establishing technology strategies and policy in this rapidly changing sector. (Lee and Lee 2013)\n\n\n\n\nLee, Kyungpyo, and Sungjoo Lee. 2013. “Patterns of Technological Innovation and Evolution in the Energy Sector: A Patent-Based Approach.” Energy Policy 59 (August): 415–32. https://doi.org/10.1016/j.enpol.2013.03.054.\n\n\nStern, N. 2006. “Stern Review: The Economics of Climate Change,” October. https://www.osti.gov/etdeweb/biblio/20838308."
   },
@@ -144,6 +144,83 @@
     "href": "innovation_lecture.html#숙제",
     "title": "2  ITM501 lecture",
     "section": "6.2 숙제",
-    "text": "6.2 숙제\n1. Open innovation and Core competence 논문 1편 요약\n\n내가 속한 기관의 핵심역량은 무엇인가? 3가지 조건에 대한 적합성 기준\n\n\n\n\n\nNelson, Richard R., and Sidney G. Winter. 1982. “The Schumpeterian Tradeoff Revisited.” The American Economic Review 72 (1): 114–32. https://www.jstor.org/stable/1808579."
+    "text": "6.2 숙제\n1. Open innovation and Core competence 논문 1편 요약\n\n내가 속한 기관의 핵심역량은 무엇인가? 3가지 조건에 대한 적합성 기준"
+  },
+  {
+    "objectID": "innovation_lecture.html#diffusion-chasm-and-disruptive-innovation",
+    "href": "innovation_lecture.html#diffusion-chasm-and-disruptive-innovation",
+    "title": "2  ITM501 lecture",
+    "section": "8.1 Diffusion, Chasm and Disruptive Innovation",
+    "text": "8.1 Diffusion, Chasm and Disruptive Innovation\n\n확산과정: 어떤 기술혁신이 사회 시스템 내의 구성원간 시간에 따라 특정 채널들을 통하여 전파되는 과정. 지식 - 설득 - 결정 - 수행 - 확정.\n5가지 고객의 유형\n\nInnovators : 새로운 기술이 나왔을 때 무조건 받아들이는 계층. 신기술에 문제가 있거나 불편하더라도 사용하는 데 아무런 불평도 제기하지 않음.\nEarly adopters : 신기술의 진가를 알아차리고 그것이 가져다 줄 경제적 이익과 전략적 가치를 높이 사는 계층(분석할 줄 아는 계층).\nEarly Majority : 실용적 구매 계층으로서 기본적으로 첨단 기술에 관심을 가지고 있지만 모험을 하고자 하지 않으며, 신기술이 성숙될 때까지 기다리는 계층.\nLate Majority : 첨단 기술에 대한 부정적인 시각을 가지고 있으며, 신기술이 업계의 표준으로 인정받지 못한다면 이를 도입하지 않음.\nLaggards : 신기술을 활용하지만 기술의 존재나 이용 방법 등을 알지 못하는 계층."
+  },
+  {
+    "objectID": "innovation_lecture.html#section",
+    "href": "innovation_lecture.html#section",
+    "title": "2  ITM501 lecture",
+    "section": "8.2 ",
+    "text": "8.2 \n\n\n\n\nNelson, Richard R., and Sidney G. Winter. 1982. “The Schumpeterian Tradeoff Revisited.” The American Economic Review 72 (1): 114–32. https://www.jstor.org/stable/1808579."
+  },
+  {
+    "objectID": "research_proposal_1.html",
+    "href": "research_proposal_1.html",
+    "title": "4  Research proposal 1",
+    "section": "",
+    "text": "2023.10.30"
+  },
+  {
+    "objectID": "research_proposal_1.html#objective-questions-of-the-project",
+    "href": "research_proposal_1.html#objective-questions-of-the-project",
+    "title": "4  Research proposal 1",
+    "section": "4.2 Objective / questions of the project",
+    "text": "4.2 Objective / questions of the project\n\n\n\n\n\n\nresearch questions\n\n\n\n\nDo large-scale projects like nuclear power plants show dramatic cost reduction as a power law of cumulative production? (Wright 1936)\nWhat are the impacts of introducing new large-scale / SMR(Small Modular Reactor) nuclear power plants in South Korea?\nHow might responsiveness to investment influence the role of and balance between the nuclear power plants and other low-carbon technologies?"
+  },
+  {
+    "objectID": "research_proposal_1.html#proposed-scenarios",
+    "href": "research_proposal_1.html#proposed-scenarios",
+    "title": "4  Research proposal 1",
+    "section": "4.3 Proposed scenarios",
+    "text": "4.3 Proposed scenarios\n\nThe expansions of low-carbon technologies except nuclear power plants are constrained. Constraints on the diffusion of low-carbon technologies can be represented as fixed annual rates of growth of net technology deployment(Iyer et al. 2015)."
+  },
+  {
+    "objectID": "research_proposal_1.html#methodology",
+    "href": "research_proposal_1.html#methodology",
+    "title": "4  Research proposal 1",
+    "section": "4.4 Methodology",
+    "text": "4.4 Methodology"
+  },
+  {
+    "objectID": "research_proposal_1.html#data-required-and-source-of-information",
+    "href": "research_proposal_1.html#data-required-and-source-of-information",
+    "title": "4  Research proposal 1",
+    "section": "4.5 Data required and source of information",
+    "text": "4.5 Data required and source of information"
+  },
+  {
+    "objectID": "research_proposal_1.html#expected-results-and-conclusions",
+    "href": "research_proposal_1.html#expected-results-and-conclusions",
+    "title": "4  Research proposal 1",
+    "section": "4.6 Expected results and conclusions",
+    "text": "4.6 Expected results and conclusions"
+  },
+  {
+    "objectID": "research_proposal_1.html#references",
+    "href": "research_proposal_1.html#references",
+    "title": "4  Research proposal 1",
+    "section": "4.7 References",
+    "text": "4.7 References\n\n\n\n\nEash-Gates, Philip, Magdalena M. Klemun, Goksin Kavlak, James McNerney, Jacopo Buongiorno, and Jessika E. Trancik. 2020. “Sources of Cost Overrun in Nuclear Power Plant Construction Call for a New Approach to Engineering Design.” Joule 4 (11): 2348–73. https://doi.org/10.1016/j.joule.2020.10.001.\n\n\nIyer, Gokul, Nathan Hultman, Jiyong Eom, Haewon McJeon, Pralit Patel, and Leon Clarke. 2015. “Diffusion of Low-Carbon Technologies and the Feasibility of Long-Term Climate Targets.” Technological Forecasting and Social Change 90 (January): 103–18. https://doi.org/10.1016/j.techfore.2013.08.025.\n\n\nSovacool, Benjamin K., Alex Gilbert, and Daniel Nugent. 2014. “An International Comparative Assessment of Construction Cost Overruns for Electricity Infrastructure.” Energy Research & Social Science 3 (September): 152–60. https://doi.org/10.1016/j.erss.2014.07.016.\n\n\nWright, T. P. 1936. “Factors Affecting the Cost of Airplanes.” Journal of the Aeronautical Sciences 3 (4): 122–28. https://doi.org/10.2514/8.155."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Innovation",
+    "section": "",
+    "text": "The energy research and development (R&D) field has seen a great deal of recent activity in the development of new and renewable energy technology, as a critical source of future energy supplies(Stern 2006).\nGiven the ever-increasing pace and complexity of technological innovation in the energy sector, monitoring technological changes has become of strategic importance. One of the most common techniques for technology monitoring is patent analysis, which enables the identification of technological trends over time. Patent analysis is one of the most prevalent methods used to analyze technological innovation. Patents are a good proxy measure for innovation activities—they have been used to assess the current state of firms’ innovation efforts and to shape their future direction and support their R&D decision-making.\nHowever, few previous studies have carried out patent analysis in the energy sector. This study aims to explore patterns of innovation and of evolution in energy technologies, particularly focusing on similarities and differences across technologies. For this purpose, we first defined the relevant energy technologies and extracted the associated patent data from the United States Patents and Trademark Office (USPTO) and then adopted six patent indices and developed six patent maps to analyze their innovation characteristics. We then clustered energy technologies with similar characteristics, so defining innovation categories, and analyzed the changes in these characteristics over time to define their evolution categories. As one of the few attempts to investigate the overall trends in the energy sector’s innovation and evolution, this study is expected to help develop an in-depth understanding of the energy industry, which will be useful in establishing technology strategies and policy in this rapidly changing sector. (Lee and Lee 2013)\n\n\n\n\nLee, Kyungpyo, and Sungjoo Lee. 2013. “Patterns of Technological Innovation and Evolution in the Energy Sector: A Patent-Based Approach.” Energy Policy 59 (August): 415–32. https://doi.org/10.1016/j.enpol.2013.03.054.\n\n\nStern, N. 2006. “Stern Review: The Economics of Climate Change,” October. https://www.osti.gov/etdeweb/biblio/20838308."
+  },
+  {
+    "objectID": "research_proposal_1.html#introduction",
+    "href": "research_proposal_1.html#introduction",
+    "title": "4  Research proposal 1",
+    "section": "4.1 Introduction",
+    "text": "4.1 Introduction\n\nElectricity infrastructure is prone to cost overrun issues almost independently of technology or location, that hydroelectric dams and nuclear reactors have the greatest amount and frequency of cost overruns, even when normalized to overrun per installed MW, and that solar and wind projects seem to present the least construction risk(Sovacool, Gilbert, and Nugent 2014).\nProjections of nuclear plant costs have repeatedly failed to predict the cost overruns observed. A study found the mechanisms that have contributed to the rise in nuclear construction costs over the past 5 decades to understand the divergence between expected and realized costs(Eash-Gates et al. 2020).\nIn South Korea, the Ministry of Trade, Industry and Energy (MOTIE) announced in July 2023 its plan to review new nuclear power plant construction projects, reasoning that \"the supply capacity needs to be expanded for stable electricity supply, as it is estimated that demand for electricity will increase dramatically with the rapid electrification of life and industries in general recently and with the increase in investments in cutting-edge industries.\" However, experts are pointing out that sufficient review and discussion should precede construction projects for large-scale nuclear power plants. hankyorae"
   }
 ]

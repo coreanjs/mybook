@@ -7,6 +7,8 @@ book:
   author: "Jiseok Ahn"
   date: last-modified
   reader-mode: true
+  number_sections: false 
+ 
   
   page-footer:
     left: |
@@ -25,6 +27,10 @@ book:
       chapters: 
         - innovation_lecture.qmd 
         - innovation_paper.qmd 
+        
+    - part: research.qmd
+      chapters: 
+        - research_proposal_1.qmd 
 bibliography: references.bib
 
 format:
@@ -33,6 +39,7 @@ format:
       - cosmo
       - r4ds.scss
     code-link : true
+  
   pdf:
     documentclass: scrreprt
 
