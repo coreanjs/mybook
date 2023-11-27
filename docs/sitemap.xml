@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coreanjs.github.io/mybook/index.html</loc>
-    <lastmod>2023-10-30T01:28:38.960Z</lastmod>
+    <lastmod>2023-11-21T10:11:33.256Z</lastmod>
   </url>
   <url>
     <loc>https://coreanjs.github.io/mybook/acknowledgements.html</loc>
@@ -34,10 +34,14 @@
   </url>
   <url>
     <loc>https://coreanjs.github.io/mybook/research_proposal_1.html</loc>
-    <lastmod>2023-11-17T06:07:41.094Z</lastmod>
+    <lastmod>2023-11-27T01:58:16.178Z</lastmod>
   </url>
   <url>
     <loc>https://coreanjs.github.io/mybook/research.html</loc>
     <lastmod>2023-11-04T00:16:24.158Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coreanjs.github.io/mybook/research_slide.html</loc>
+    <lastmod>2023-11-21T10:15:47.450Z</lastmod>
   </url>
 </urlset>

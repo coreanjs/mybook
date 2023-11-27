@@ -1,0 +1,25 @@
+---
+title: "Research topic/GCAM-KAIST7.0"
+subtitle: "Seminar on fiscal spillover effects"
+author: "Jiseok Ahn"
+format:
+  revealjs:
+    incremental: true 
+    #slide-number: true
+  #  chalkboard: 
+  #    buttons: false
+  #  preview-links: auto
+   # logo: fig/quarto.png
+   # css: css/styles.css
+   # footer: <https://quarto.org>
+---
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep

@@ -10,15 +10,23 @@
 
 -   Projections of **nuclear plant** costs have repeatedly failed to predict the cost overruns observed. It is found that nuclear reactors are the riskiest technology in terms of mean cost escalation as a percentage of budget and frequency[@sovacool2014a]. Another study also found the mechanisms that have contributed to the rise in nuclear construction costs over the past five decades to understand the divergence between expected and realized costs[@eash-gates2020].
 
-### Evidence from nuclear power plant cost overrun in South Korea 
+### Evidence from nuclear power plant cost overrun in South Korea
 
 -   There are media reports that the cost of nuclear power plants in South Korea is increasing. The initial contract for 신고리 Units 3-4, which began construction in 2007, was KRW 5.575 trillion, while the initial contract for 신고리 Units 5-6, which began construction last year, was KRW 8.6253 trillion. Compared to nine years ago, construction costs are 54.9% higher. [hankyorae](https://www.hani.co.kr/arti/economy/economy_general/813791.html)
 
 -   The initial project cost of Shinhanul Units 1 and 2 was 6.3 trillion won, but the actual investment cost is around 8 trillion won. In addition, the estimated investment cost of Shinsegori Units 5 and 6, which are being built with the same design, is nearly 11 trillion won, an increase of more than 3 trillion won. Shinsegori Units 5 and 6 are expected to be completed in 2023-2024. [e2news](http://www.e2news.com/news/articleView.html?idxno=218783)
 
+-   Also [ytn](https://www.yna.co.kr/view/AKR20171024066700003).
+
 ### South Korea's plan for the expansion of nuclear power plant
 
 -   In South Korea, the Ministry of Trade, Industry and Energy (MOTIE) announced in July 2023 its plan to review new nuclear power plant construction projects, reasoning that "the supply capacity needs to be expanded for stable electricity supply, as it is estimated that demand for electricity will increase dramatically with the rapid electrification of life and industries in general recently and with the increase in investments in cutting-edge industries." However, experts are pointing out that sufficient review and discussion should precede construction projects for large-scale nuclear power plants. [hankyorae](https://english.hani.co.kr/arti/english_edition/e_national/1099650.html)
+
+-   [The Ministry of Trade, Industry and Energy](https://eiec.kdi.re.kr/policy/materialView.do?num=226556&topic=) and the Ministry of Science and ICT plan to develop the next generation of SMRs by investing KRW 399.2 billion from '23 to '28 through the \<New Small Modular Reactor Technology Development Project\>.
+
+### SMR as a promising low-carbon technology
+
+-   SMRs appear to overcome the limitations of conventional nuclear power in terms of cost, safety, waste, and proliferation, but research shows that none of the SMR's technology designs meet all four of these challenges simultaneously[@ramana2014].
 
 ## Objective / questions of the project
 
@@ -29,7 +37,7 @@
 
 -   What are the impacts of introducing new large-scale / SMR(Small Modular Reactor) nuclear power plants in South Korea?
 
--   How might responsiveness to investment influence the role of and balance between the nuclear power plants and other low-carbon technologies?
+-   How might responsiveness to investment influence the role of and balance between nuclear power plants and other low-carbon technologies?
 
 -   
 :::
